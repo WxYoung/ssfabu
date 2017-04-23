@@ -15,3 +15,5 @@ define('MONGO_DBNAME','ssfabu');
 //weixin配置
 define('APPID','wxa54b997e82462e5a');
 define('APPSECRET','2b9c188883ebf39f9203eaee4876dda5');
+
+

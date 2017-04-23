@@ -1,4 +1,7 @@
 <?php
+ini_set("display_errors", "On");
+error_reporting(E_ALL | E_STRICT);
+
 //根目录常量
 define("SERVER_ROOT", dirname(__FILE__));
 
