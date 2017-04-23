@@ -54,7 +54,7 @@ class messageApiController extends Controller
                     //组装模板消息
                     $template = array(
                         'touser' => $openId,
-                        'template_id' => '9nDUG73NbtCSo3Vtx0og8eEJaCXU0PcmGSjZiGhwY-k',
+                        'template_id' => 'LsHALujx0uMMrKDTolSD9G2m8ttf0zr_b6CC9k9tJ9Q',
                         'url' => $shortUrl,
                         'data' => array(
                             'first' => array('value' => urlencode($name).',您好,您有一条通知!','color' => '#173177'),
